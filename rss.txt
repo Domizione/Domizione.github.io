@@ -5,10 +5,24 @@
   <description>Quì vi aggiornerò su tutto ciò che riguarda me: Nuovi video, aggiornamenti del sito e aggiornamenti sulla mia vita!</description>
   <link>https://exilorian.neocities.org/rss.txt</link>
   <lastBuildDate>
-    Tue, 26 Aug 2025 19:20:01 +0100
+    Sat, 30 Aug 2025 14:26:00 +0200
   </lastBuildDate>
-  <ttl>1756232401</ttl>
+  <ttl>1756556760</ttl>
   
+  <item>
+  <title>HO ACQUISTATO UN DOMINIO!</title>
+  <description>
+   Finalmente questo progetto ha avuto successo! Ho cambiato provider di hosting, passando da NeoCities a GitHub Pages, che mi permette di utilizzare un dominio namecheap e certificato ssl, tutto gratuito fino all'anno prossimo grazie ai benefici per studenti che offre github. 
+   Sto imparando sempre di più a programamre in linguaggi "semplici" come html5 e roba più complicata come css e javascript, e sono passato da Sublime Text a VS Code, mi ci trovo molto meglio.
+   Fra qualche settimana dovrò ricominciare a frequentare la scuola è sarà molto più difficile mantenere questo sito, speriamo che le cose proseguano nel modo migliore possibile!
+  </description>
+  /*Ricordati di rimpiazzare i cancelletti con le parentesi nei tag qui sotto quando fai un nuovo post!
+    ##link##https://exilorian.neocities.org/index.html##/link##
+  <pubDate>
+    Sat, 30 Aug 2025 14:26:00 +0200
+  </pubDate>
+</item>
+
   <item>
   <title>Overhaul dell'estetica del sito!</title>
   <description>
